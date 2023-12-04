@@ -25,15 +25,15 @@ This is a simple console-based implementation of the classic Tic-Tac-Toe game in
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe-java.git
+   git clone https://github.com/karansasane21/TIC-TAC-TOE.git
 
-##Navigate to the project directory.
+## Navigate to the project directory.
 - cd tic-tac-toe-java
 
 ## Compile the Java file.
 - javac TicTacToe.java
 
 ## Run the program.
--java TicTacToe
+- java TicTacToe
 
 
